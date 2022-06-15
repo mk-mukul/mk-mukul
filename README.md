@@ -48,9 +48,9 @@ I'm **Mukul Raj**, a third-year undergraduate at **IIT Gandhinagar**. I have an 
 ---
 ### GitHub Stats 
 <div align="center"> 
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=mk-mukul&count_private=true&show_icons=true&theme=tokyonight&hide_border=true" alt="mukul's github stats" /> 
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mk-mukul&hide=java&layout=compact&theme=tokyonight&hide_border=true&langs_count=5" alt="mukul's github stats" />
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=mk-mukul&theme=tokyonight&hide_border=true" alt="mukul's github stats"/>
+    <a href="#"><img height="180" src="https://github-readme-stats.vercel.app/api?username=mk-mukul&count_private=true&show_icons=true&theme=tokyonight&hide_border=true" alt="mukul's github stats" /></a>
+    <a href="#"><img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mk-mukul&hide=java&layout=compact&theme=tokyonight&hide_border=true&langs_count=5" alt="mukul's github stats" /></a>
+    <a href="#"><img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=mk-mukul&theme=tokyonight&hide_border=true" alt="mukul's github stats"/></a>
 </div>
 
 
