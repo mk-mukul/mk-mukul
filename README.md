@@ -64,5 +64,5 @@ I'm **Mukul Raj**, a third-year undergraduate at **IIT Gandhinagar**. I have an 
 
 </div>
 <div align="center" display="flex">
-    <img  height="23" src="https://visitor-badge.glitch.me/badge?page_id=mk-mukul.mk-mukul&left_color=gray&right_color=blue" alt="Mukul's Profile visits" />
+    <a href="#"><img  height="23" src="https://visitor-badge.glitch.me/badge?page_id=mk-mukul.mk-mukul&left_color=gray&right_color=blue" alt="Mukul's Profile visits" /></a>
 </div>
