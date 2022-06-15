@@ -16,7 +16,7 @@ I'm **Mukul Raj**, a third-year undergraduate at **IIT Gandhinagar**. I have an 
 <a href="https://metis-website-iitgn.herokuapp.com/">![CSS3](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=FFFFFF)</a>
 <a href="https://github.com/mk-mukul/btech20-iitgn/tree/sem-3">![JavaScript](https://img.shields.io/badge/javascript-f0db4f?style=for-the-badge&logo=javascript&logoColor=000000)</a>
 <a href="https://github.com/mk-mukul/website_alpha">![MongoDB](https://img.shields.io/badge/mongodb-3FA037?style=for-the-badge&logo=mongodb&logoColor=FFFFFF)</a>
-<a href="https://github.com/mk-mukul/website_alpha">![ExpressJS](https://img.shields.io/badge/expressjs-F66600?style=for-the-badge&logo=express&logoColor=FFFFFF)</a>   
+<a href="https://github.com/mk-mukul/website_alpha">![ExpressJS](https://img.shields.io/badge/expressjs-F66600?style=for-the-badge&logo=express&logoColor=FFFFFF)</a>
 <a href="https://github.com/mk-mukul/website_alpha">![React](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=000000)</a>
 <a href="https://github.com/mk-mukul/WD-GP-32">![Node.JS](https://img.shields.io/badge/node.js-3C873A?style=for-the-badge&logo=node.js&logoColor=FFFFFF)</a>
 <a href="https://mk-mukul.github.io/">![Next.JS](https://img.shields.io/badge/next.js-303030?style=for-the-badge&logo=next.js&logoColor=FFFFFF)</a>
@@ -64,5 +64,5 @@ I'm **Mukul Raj**, a third-year undergraduate at **IIT Gandhinagar**. I have an 
 
 </div>
 <div align="center" display="flex">
-    <a href="#"><img  height="23" src="https://visitor-badge.glitch.me/badge?page_id=mk-mukul.mk-mukul&left_color=gray&right_color=blue" alt="Mukul's Profile visits" /></a>
+    <a href="#"><img  height="23" src="https://visitor-badge.glitch.me/badge?page_id=mk-mukul1.mk-mukul&left_color=gray&right_color=blue" alt="Mukul's Profile visits" /></a>
 </div>
