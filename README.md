@@ -37,8 +37,8 @@ I'm **Mukul Raj**, a third-year undergraduate at **IIT Gandhinagar**. I have an 
 ### Tools I Use
 <div align="center">
 
-[![VSCode](https://img.shields.io/badge/vscode-0078D7?style=for-the-badge&logo=visual-studio-code&logoColor=FFFFFF)](#)
 [![GIT](https://img.shields.io/badge/git-F1502F?style=for-the-badge&logo=git&logoColor=FFFFFF)](#)
+[![VSCode](https://img.shields.io/badge/vscode-0078D7?style=for-the-badge&logo=visual-studio-code&logoColor=FFFFFF)](#)
 [![Ubuntu](https://img.shields.io/badge/ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=FFFFFF)](#)
 [![Autodesk](https://img.shields.io/badge/autodesk-7CB843?style=for-the-badge&logo=autodesk&logoColor=FFFFFF)](#)
 
@@ -64,5 +64,5 @@ I'm **Mukul Raj**, a third-year undergraduate at **IIT Gandhinagar**. I have an 
 
 </div>
 <div align="center" display="flex">
-    <a href="#"><img  height="23" src="https://visitor-badge.glitch.me/badge?page_id=mk-mukul1.mk-mukul&left_color=gray&right_color=blue" alt="Mukul's Profile visits" /></a>
+    <a href="#"><img  height="23" src="https://visitor-badge.glitch.me/badge?page_id=mk-mukul.mk-mukul&left_color=gray&right_color=blue" alt="Mukul's Profile visits" /></a>
 </div>
