@@ -20,15 +20,9 @@ I'm **Mukul Raj**, a third-year undergraduate at **IIT Gandhinagar**. I have an 
 <a href="https://github.com/mk-mukul/website_alpha">![React](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=000000)</a>
 <a href="https://github.com/mk-mukul/WD-GP-32">![Node.JS](https://img.shields.io/badge/node.js-3C873A?style=for-the-badge&logo=node.js&logoColor=FFFFFF)</a>
 <a href="https://mk-mukul.github.io/">![Next.JS](https://img.shields.io/badge/next.js-303030?style=for-the-badge&logo=next.js&logoColor=FFFFFF)</a>
-<a href="https://github.com/mk-mukul/shoppily">![React Native](https://img.shields.io/badge/react%20native-61DAFB?style=for-the-badge&logo=react&logoColor=000000)</a>
-<a href="https://github.com/mk-mukul/website_alpha">![TailwindCSS](https://img.shields.io/badge/tailwindcss-3490dc?style=for-the-badge&logo=tailwindcss&logoColor=FFFFFF)</a>
-<a href="https://metis-website-iitgn.herokuapp.com/">![Bootstrap](https://img.shields.io/badge/bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=FFFFFF)</a>
-<a href="#">![Linux](https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=000000)</a>
 <a href="https://github.com/mk-mukul/first_project">![Python](https://img.shields.io/badge/python-306998?style=for-the-badge&logo=python&logoColor=FFFFFF)</a>
 <a href="#">![CPP](https://img.shields.io/badge/cpp-00599C?style=for-the-badge&logo=cplusplus&logoColor=FFFFFF)</a>
 <a href="#">![C](https://img.shields.io/badge/c-659AD2?style=for-the-badge&logo=c&logoColor=FFFFFF)</a>
-<a href="https://metis-website-iitgn.herokuapp.com/">![Heroku](https://img.shields.io/badge/heroku-6762A6?style=for-the-badge&logo=heroku&logoColor=FFFFFF)</a>
-<a href="https://metis-admin.herokuapp.com/metis-admin">![Strapi](https://img.shields.io/badge/strapi-8C4BFF?style=for-the-badge&logo=strapi&logoColor=FFFFFF)</a>
 
 </div>
 
@@ -37,10 +31,10 @@ I'm **Mukul Raj**, a third-year undergraduate at **IIT Gandhinagar**. I have an 
 ### Tools I Use
 <div align="center">
 
+[![Linux](https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=000000)](#)
 [![GIT](https://img.shields.io/badge/git-F1502F?style=for-the-badge&logo=git&logoColor=FFFFFF)](#)
 [![VSCode](https://img.shields.io/badge/vscode-0078D7?style=for-the-badge&logo=visual-studio-code&logoColor=FFFFFF)](#)
 [![Ubuntu](https://img.shields.io/badge/ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=FFFFFF)](#)
-[![Autodesk](https://img.shields.io/badge/autodesk-7CB843?style=for-the-badge&logo=autodesk&logoColor=FFFFFF)](#)
 
 </div>
 
