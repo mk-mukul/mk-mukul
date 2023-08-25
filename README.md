@@ -1,6 +1,6 @@
 ## Hi I'm Mukul <img height="30" width="35" src="assets/hi.gif" width="28px" alt="hi">
 
-I'm **Mukul Raj**, a third-year undergraduate at **IIT Gandhinagar**. I have an interest in the fields of **Software Development**, **Web Development**, and **Cyber Security**. 
+I'm **Mukul Raj**, a Senior undergraduate at IIT **IIT Gandhinagar**. I am interested in **Web Development**, **Cyber Security**, and **Finance**. 
 
 - :india: I’m an Indian
 - :computer: Most used line of code `git commit -m "Initial Commit"`
@@ -56,7 +56,4 @@ I'm **Mukul Raj**, a third-year undergraduate at **IIT Gandhinagar**. I have an 
 [![Instagram](https://img.shields.io/badge/@mk__mucool-E1306C?style=for-the-badge&logo=instagram&logoColor=FFFFFF)](https://instagram.com/mk_mucool)
 [![Twitter](https://img.shields.io/badge/@mk__mucool-00ACEE?style=for-the-badge&logo=twitter&logoColor=FFFFFF)](https://twitter.com/mk_mucool)
 
-</div>
-<div align="center" display="flex">
-    <a href="#"><img  height="23" src="https://visitor-badge.glitch.me/badge?page_id=mk-mukul.mk-mukul&left_color=gray&right_color=blue" alt="Mukul's Profile visits" /></a>
 </div>
