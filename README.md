@@ -1,6 +1,6 @@
 ## Hi I'm Mukul <img height="30" width="35" src="assets/hi.gif" width="28px" alt="hi">
 
-I'm **Mukul Raj**, a Senior undergraduate at IIT **IIT Gandhinagar**. I am interested in **Web Development**, **Cyber Security**, and **Finance**. 
+I'm **Mukul Raj**, a Senior undergraduate at **IIT Gandhinagar**. I am interested in **Web Development**, **Cyber Security**, and **Finance**. 
 
 - :india: I’m an Indian
 - :computer: Most used line of code `git commit -m "Initial Commit"`
